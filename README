@@ -1,0 +1,19 @@
+Processing Visuals Tool
+
+The whole thing started with one audio visualizer and grew from there. I wanted it to be easy for people to play around with the visuals, so I added an interface. The only external library used is Minim, for the audio analyzing.
+
+The code grew and changed with me learning new things about processing (as in functions, classes, etc).
+
+Controls:
+generally the interface is controlled via mouse, you can scroll through the interface items with your mousewheel
+
+p - pause/play demo song
+spacebar - freeze current frame
+
+
+
+Music Attribution:
+"Whispering Through" by Asura (http://freemusicarchive.org/music/Asura/Bonus_Beat_Blast_2011/09_asura-whispering_through)
+
+Video:
+http://vimeo.com/36418942
